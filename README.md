@@ -6,7 +6,7 @@ This is my GitHub Portfolio!
 
 ## About Me
 
-My name is Sanskrit Singh (He/His/Him). I am from the northern part of India. I am a civil engineer by profession and currently pursuing my Graduate Program from the Civil and Environmental Engineering Department at Carnegie Mellon University, Pittsburgh, PA, USA. I love playing tennis and enjoy travelling to learn about different cultures. I am really excited abou the Telling Stories with Data course as this would enable me to visualize better which would help me no matter which field I choose to pursue. This course will help me to boraden my horizon and explore the creative side within me. Looking to learn from the best and my fellow course mates. 
+My name is Sanskrit Singh (He/His/Him). I am from the northern part of India. I am a civil engineer by profession and currently pursuing my Graduate Program from the Civil and Environmental Engineering Department at Carnegie Mellon University, Pittsburgh, PA, USA. I love playing tennis and enjoy travelling to learn about different cultures. I am really excited abou the Telling Stories with Data course as this would enable me to visualize better which would help me no matter which field I choose to pursue. This course will help me to broaden my horizon and explore the creative side within me. Looking to learn from the best and my fellow course mates. 
 
 ## What I wish to learn
 
