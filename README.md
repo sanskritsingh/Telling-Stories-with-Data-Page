@@ -6,7 +6,7 @@ This is my GitHub Portfolio!
 
 ## About Me
 
-I am a civil engineer by profession and currently pursuing my Graduate Program from the Civil and Environmental Engineering Department of Carnegie Mellon University, Pittsburgh, PA, USA
+I am a civil engineer by profession and currently pursuing my Graduate Program from the Civil and Environmental Engineering Department at Carnegie Mellon University, Pittsburgh, PA, USA
 
 ## What I wish to learn
 
