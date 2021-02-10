@@ -1,6 +1,8 @@
 ## Telling-Stories-with-Data-Page
 
-Link to live site - https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/
+Links to live site - https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/
+
+https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/King%20County%20Data
 
 This is my GitHub Portfolio!
 
