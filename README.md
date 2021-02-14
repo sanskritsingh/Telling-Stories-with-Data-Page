@@ -2,7 +2,9 @@
 
 Links to live site - https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/
 
-https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/King%20County%20Data
+Week 2 - In Class https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/King%20County%20Data
+
+Assignmwnt 2 - 
 
 This is my GitHub Portfolio!
 
