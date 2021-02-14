@@ -4,9 +4,9 @@ This is my GitHub Portfolio!
 
 Assignment 1 - Link to live site - [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/)
 
-Week 2 - In Class - https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/King%20County%20Data
+Week 2 - In Class - [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/King%20County%20Data](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/King%20County%20Data)
 
-Assignment 2 - Visualizing Govt Debt - https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Visualizing%20Govt%20Debt
+Assignment 2 - Visualizing Govt Debt - [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Visualizing%20Govt%20Debt](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Visualizing%20Govt%20Debt)
 
 
 ## About Me
