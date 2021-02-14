@@ -29,3 +29,5 @@ I wish to learn more about data visualization so that I can make good use of the
 ![20210207 Whats Imp whiloe Buying a Drone - Assignment 1](https://user-images.githubusercontent.com/78463682/107310656-d484b580-6a5a-11eb-8e07-c3432c1cab60.jpg)
 ![20210207 Percentage of Sales - Assignment 1](https://user-images.githubusercontent.com/78463682/107310657-d51d4c00-6a5a-11eb-9a44-c258b50a3d65.jpg)
 
+
+
