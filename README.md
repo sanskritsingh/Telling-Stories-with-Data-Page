@@ -4,7 +4,7 @@ Links to live site - https://sanskritsingh.github.io/Telling-Stories-with-Data-P
 
 Week 2 - In Class https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/King%20County%20Data
 
-Assignmwnt 2 - 
+Assignment 2 - Visualizing Govt Debt https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Visualizing%20Govt%20Debt
 
 This is my GitHub Portfolio!
 
