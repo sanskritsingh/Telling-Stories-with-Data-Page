@@ -8,6 +8,14 @@ Compared to the last data, where one could only see a comparison of ventral gove
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5291281"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Another way to depict the same data using a stacked column chart is given below. Some people might find this easer to comprehend.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5291385"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+On a more specific note, if we want to analyze the central governement debt for USA, it can be seen below:
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5291413"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 To go back to the main Portfolio Page, please go to the link below:
 
