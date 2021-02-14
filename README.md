@@ -21,6 +21,10 @@ I wish to learn more about data visualization so that I can make good use of the
 <iframe title="Brazil's golden oldie blowout" aria-label="chart" id="datawrapper-chart-bi5le" src="https://datawrapper.dwcdn.net/bi5le/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="498"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+The second visulaization is the central government debt for the year 2018 for various countires
+
+<iframe src="https://data.oecd.org/chart/6gMT" width="1000" height="750" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gMT" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+
 
 ## Some of the other works that I have done pertaining to this class and data visualization - 
 
