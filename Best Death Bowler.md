@@ -14,7 +14,7 @@ Third, also in my opinion there should be an indication as to which country do t
 
 In my opinion, I will probably use different indicators to prove the logic and also use better color scheme. A completely different portrayal of the graph can also turn out to be a good option! 
 
-I assume using a different type of chart to express the data would solve the purpose. Also, a change in the measures to be plotted on the graph. A change in the color scheme. The most important thing is to highlight the player - "Pat Cummins" as from the data it looks like the one with the highest number is wickets is the best death bowler. But the truth is that the bowler with the best wickets / match should be accepted as the best death bowler. These small changes will surely improve the graph!
+I assume using a different type of chart to express the data would solve the purpose. Also, a change in the measures to be plotted on the graph. A change in the color scheme. The most important thing is to highlight the player - "Pat Cummins" as from the data it looks like the one with the highest number is wickets is the best death bowler. But the truth is that the bowler with the best wickets / match should be accepted as the best death bowler. Also, players from each continent would be given a different color so as to give the reader an estimate as to which continent does the player belong to. Player from Asia have been given a different color, players from UK/EU have been given a different color, also players from Australia have been given a different color. These small changes will surely improve the graph!
 
 Hence, I have recreated the graph as given below:
 
