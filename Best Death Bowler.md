@@ -1,8 +1,9 @@
 
-##Who is the best Death Bowler in Ome Day Internationls?
-#The below data gives us a representation of the best death bowler (who has taken maximum wickets between the 40th and 50th overs in ODI starting from 01 Jan 2017 to 15 May 2019!
+## Who is the best Death Bowler in One Day Internationls?
+# The below data gives us a representation of the best death bowler (who has taken maximum wickets between the 40th and 50th overs in ODI starting from 01 Jan 2017 to 15 May 2019!
 
-The graph below was posted in on of the cricket daily website. There are many things that I did not like about the graph. There are multiple thing wrong with this dataset. They are: 
+
+The graph given above was posted in on of the cricket daily website. There are many things that I did not like about the graph. There are multiple thing wrong with this dataset. They are: 
 First, the color scheme is absolutely wrong for this graph. Two near identical colors have been stacked together which results in "not so clear" representation of the data. 
 
 Second, the wrong data sets have been used to portray the graph. The values on the X axis are Wickets and Average. However, a person will not be able to determine who is the best death bowler until and unless he has access to certain other qualification data like (minimum number of matches played, average wickets per match, runs given during the tenure etc.). Thus, this questions the useful and completeness aspect of the graph. 
