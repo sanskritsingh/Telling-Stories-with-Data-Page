@@ -8,7 +8,7 @@ The chosen data visualization is from the world of Cricket (a very popular sport
 
 ![Best Death Bowler on CricInfo](https://user-images.githubusercontent.com/78463682/108584731-a84a1e00-7311-11eb-9ba1-773884da5d31.png)
 
-The graph given above was posted in on of the cricket daily website. There are many things that I did not like about the graph. There are multiple thing wrong with this dataset. They are: 
+The graph given above was posted in one of the cricket daily website. There are many things that I did not like about the graph. There are multiple thing wrong with this dataset. They are: 
 
 First, the color scheme is absolutely wrong for this graph. Two near identical colors have been stacked together which results in "not so clear" representation of the data. 
 
