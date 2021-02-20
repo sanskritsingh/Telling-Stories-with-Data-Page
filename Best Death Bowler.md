@@ -22,10 +22,12 @@ I assume using a different type of chart to express the data would solve the pur
 
 On drawing the basic wireframes with a pen on paper, I got the following graphs:
 
+![Trail 3](https://user-images.githubusercontent.com/78463682/108585678-a1bea500-7317-11eb-91b0-a33f80f34958.jpg)
+![Trial 1](https://user-images.githubusercontent.com/78463682/108585681-a3886880-7317-11eb-8376-42c1ef4e4b24.jpg)
+![Trail 2](https://user-images.githubusercontent.com/78463682/108585683-a420ff00-7317-11eb-8d2a-9c372584e4ca.jpg)
 
+Interesting answers to my questions:
 
-
-Interesting answers to questions:
 Q1. Is the graph easy to understand?
 Answer --> The line chart makes the eye travel too much from one spot to another for the ease of comparison.
 
