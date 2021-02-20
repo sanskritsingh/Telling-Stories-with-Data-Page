@@ -37,3 +37,5 @@ The second visulaization is the central government debt for the year 2018 for va
 ![20210207 The Tangles Lines - Assignment 1](https://user-images.githubusercontent.com/78463682/107310654-d3ec1f00-6a5a-11eb-9977-aa51f2c0cb09.jpg)
 ![20210207 Whats Imp whiloe Buying a Drone - Assignment 1](https://user-images.githubusercontent.com/78463682/107310656-d484b580-6a5a-11eb-8e07-c3432c1cab60.jpg)
 ![20210207 Percentage of Sales - Assignment 1](https://user-images.githubusercontent.com/78463682/107310657-d51d4c00-6a5a-11eb-9a44-c258b50a3d65.jpg)
+![20210213 The Simple Unclear Bar Chart - Assignment 2](https://user-images.githubusercontent.com/78463682/108584766-e0e9f780-7311-11eb-8cd8-5519f8222579.png)
+![20210213 The Overdone Line Chart- Assignment 2](https://user-images.githubusercontent.com/78463682/108584769-e5aeab80-7311-11eb-9b49-00e240cbb2fd.png)
