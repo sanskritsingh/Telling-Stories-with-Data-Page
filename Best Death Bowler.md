@@ -1,10 +1,10 @@
 # A take on the best death bowler in the world? A short summart through different graphs!
 
 ## Why this data visualization was selected?
-The chosen data visualization if from the world of Cricket (a very popular sports in the Asian sub-continent). The data is typing to convey a story regarding the best bowler during the death overs (last 10 overs of the match (a cricket match is a 50 over game for each side)). The topic is of interest to me as I have been following the sports since my childhood and have also represented my native state in this sports.
+The chosen data visualization is from the world of Cricket (a very popular sports in the Asian sub-continent). The data is typing to convey a story regarding the best bowler during the death overs (last 10 overs of the match (a cricket match is a 50 over game for each side)). The topic is of interest to me as I have been following the sports since my childhood and have also represented my native state in this sports.
 
-# Who is the best Death Bowler in One Day Internationls?
-## The below data gives us a representation of the best death bowler (who has taken maximum wickets between the 40th and 50th overs in ODI starting from 01 Jan 2017 to 15 May 2019!
+# Who is the best Death Bowler in One Day Internationals?
+## The below data gives us a representation of the best death bowler (who has taken maximum wickets between the 40th and 50th overs in ODI starting from 01 Jan 2017 to 15 May 2019! The source for the data and graph is - [https://www.espncricinfo.com/story/who-are-odi-cricket-s-best-death-bowlers-1121953](https://www.espncricinfo.com/story/who-are-odi-cricket-s-best-death-bowlers-1121953)
 
 ![Best Death Bowler on CricInfo](https://user-images.githubusercontent.com/78463682/108584731-a84a1e00-7311-11eb-9ba1-773884da5d31.png)
 
@@ -28,16 +28,16 @@ On drawing the basic wireframes with a pen on paper, I got the following graphs:
 
 Interesting answers to my questions:
 
-Q1. Is the graph easy to understand?
+Q1. Is the graph easy to understand?  
 Answer --> The line chart makes the eye travel too much from one spot to another for the ease of comparison.
 
-Q2. Is there anything that you find confusing in the graph?
+Q2. Is there anything that you find confusing in the graph?  
 Answer --> The responder suggested that you can use the name in between and present the graphs on opposide sides of the names. That will make the comparison of data easy.
 
-Q3. Which graph do you think is the best out of the 3 wireframes plotted for reference?
+Q3. Which graph do you think is the best out of the 3 wireframes plotted for reference?  
 Answer --> One of the person mentioned to use stacked colmumn chart and to use contrasting colors. Other responder strictly suggested to not to use line graph and to go ahead with two different column graphs so that comparison is easy. Since the main objective is to find the bowler with the best wickets / match, the comparison is needed.
 
-Based on the references drawn from the above questions and answers and the fruitful discussions I had with my responders, I decided to go ahead with a doble column graph and also highlight the bowler where I want the readers to go. I have also tried to use contrasting colors.
+Based on the references drawn from the above Q&A and the fruitful discussions I had with my responders, I decided to go ahead with a double column graph and also highlight the bowler where I want the readers eye to go. The main focus is to convey a story that maximum wickets taken does not make one the greatest bowler but having the best wickets / match ratio makes you the best death bowler. I have also tried to use contrasting colors and differentiating players playing from different continents.
 
 Hence, I have recreated the graph as given below:
 
