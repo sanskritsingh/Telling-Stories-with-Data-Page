@@ -39,3 +39,6 @@ The second visulaization is the central government debt for the year 2018 for va
 ![20210207 Percentage of Sales - Assignment 1](https://user-images.githubusercontent.com/78463682/107310657-d51d4c00-6a5a-11eb-9a44-c258b50a3d65.jpg)
 ![20210213 The Simple Unclear Bar Chart - Assignment 2](https://user-images.githubusercontent.com/78463682/108584766-e0e9f780-7311-11eb-8cd8-5519f8222579.png)
 ![20210213 The Overdone Line Chart- Assignment 2](https://user-images.githubusercontent.com/78463682/108584769-e5aeab80-7311-11eb-9b49-00e240cbb2fd.png)
+![Trail 3](https://user-images.githubusercontent.com/78463682/108585678-a1bea500-7317-11eb-91b0-a33f80f34958.jpg)
+![Trial 1](https://user-images.githubusercontent.com/78463682/108585681-a3886880-7317-11eb-8376-42c1ef4e4b24.jpg)
+![Trail 2](https://user-images.githubusercontent.com/78463682/108585683-a420ff00-7317-11eb-8d2a-9c372584e4ca.jpg)
