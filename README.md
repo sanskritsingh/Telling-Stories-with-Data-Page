@@ -10,6 +10,8 @@ Assignment 2 - Visualizing Govt Debt - [https://sanskritsingh.github.io/Telling-
 
 Assignment 3 & 4 - Best Death Bowler in Cricket - [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Best%20Death%20Bowler](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Best%20Death%20Bowler)
 
+Final project - Road Safety Analysis - [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Road%20Safety%20Analysis](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Road%20Safety%20Analysis)
+
 
 ## About Me
 
