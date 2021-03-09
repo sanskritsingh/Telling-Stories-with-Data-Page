@@ -1,4 +1,4 @@
-# What are the factor affect your travel plan?
+# What factor affect your travel plan?
 
 ## Background from Part I
 During the Part I, I received multiple reviews that the analysis of road safety data is more of a presentation of data and would be better if conveyed through a story. It was told to me that the facts are being representedtoo directly and that it needs to be presented in a more subtle way. I spendt nights thinking about it and did multiple researches to bring about a topic that could be informative as well as interesting. Since, I had to keep my audience in mind, I thought to change my title a little. More details would be illustrated in the interview findings section in due course of time. 
