@@ -12,6 +12,8 @@ Assignment 3 & 4 - Best Death Bowler in Cricket - [https://sanskritsingh.github.
 
 Final project - Road Safety Analysis - [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_SanskritSingh](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_SanskritSingh)
 
+Final project - Part II - What factors affect your travel plan? - [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_Part_II](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_Part_II)
+
 
 ## About Me
 
