@@ -25,8 +25,7 @@ According to many researches, the top factors that people consider before planni
 
 A graph depicting the above points is given below:
 
-<iframe title="Factors affecting Travel Patterns (2018)" aria-label="chart" id="datawrapper-chart-ABfU5" src="https://datawrapper.dwcdn.net/ABfU5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="579"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+<iframe title="Factors affecting Travel Patterns (2018)" aria-label="chart" id="datawrapper-chart-ABfU5" src="https://datawrapper.dwcdn.net/ABfU5/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="579"></iframe>
 
 We see that assessing a country's infrastructure system for an individuals safety is not a top factor affecting a persons travel plan.
 
