@@ -1,7 +1,19 @@
-# What factor affect your travel plan?
+# What factors affect your travel plan?
 
 ## Background from Part I
-During the Part I, I received multiple reviews that the analysis of road safety data is more of a presentation of data and would be better if conveyed through a story. It was told to me that the facts are being representedtoo directly and that it needs to be presented in a more subtle way. I spendt nights thinking about it and did multiple researches to bring about a topic that could be informative as well as interesting. Since, I had to keep my audience in mind, I thought to change my title a little. More details would be illustrated in the interview findings section in due course of time. 
+During the Part I, I received multiple reviews that the analysis of road safety data is more of a presentation of data and would be better if conveyed through a story. It was told to me that the facts are being representedtoo directly and that it needs to be presented in a more subtle way. I spent multiple nights thinking about it and did multiple researches to bring about a topic that could be informative as well as interesting. Since, I had my audience in mind, I thought to change my title from **Road Safety Analysis** to **What factors affect your travel plan?**. More details would be illustrated in the interview findings section in due course of time. 
+
+
+## Wireframes and Storyboard
+To enable my data to communicate a better story, I thought to create a small story on **Storyboard**. My ultimate call to action from the data set selected was to 
+  i. make sure that people are aware of the safety standards of the G20 countries
+  ii. people take informed decisions before planning a trip to a country as fatal accidents per million people is a report card of the country's infrastructure
+Since, the story had to be a little subtle, I decided to change my project title. Apart from that, I decided to draw a small story along with wireframes on Storyboard so as to ascertain public reaction. The link to my Storyboard creation is - [https://www.storyboardthat.com/storyboards/sanskritsingh/-factors--affecting-travel-plans-/copy](https://www.storyboardthat.com/storyboards/sanskritsingh/-factors--affecting-travel-plans-/copy)
+
+
+
+
+
 
 
 ## Why this data visualization was selected?
