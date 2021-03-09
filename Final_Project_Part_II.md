@@ -10,7 +10,25 @@ To enable my data to communicate a better story, I thought to create a small sto
   i. make sure that people are aware of the safety standards of the G20 countries  
   ii. people take informed decisions before planning a trip to a country as fatal accidents per million people is a report card of the country's infrastructure  
 
-Since, the story had to be a little subtle, I decided to change my project title. Apart from that, I decided to draw a small story along with wireframes on Storyboard so as to ascertain public reaction. The link to my Storyboard creation is - [https://www.storyboardthat.com/storyboards/sanskritsingh/-factors--affecting-travel-plans-/copy](https://www.storyboardthat.com/storyboards/sanskritsingh/-factors--affecting-travel-plans-/copy)
+Since, the story had to be a little subtle, I decided to change my project title. Apart from that, I decided to draw a small story along with wireframes on Storyboard so as to ascertain public reaction. The link to my Storyboard creation is - [https://www.storyboardthat.com/storyboards/sanskritsingh/-factors--affecting-travel-plans-/copy](https://www.storyboardthat.com/storyboards/sanskritsingh/-factors--affecting-travel-plans-/copy). A copy of it is being produced below for ready reference.
+
+![20210309 Storyboard-Picture](https://user-images.githubusercontent.com/78463682/110440930-33a00f00-8087-11eb-9b46-2f58ab4e6e92.png)
+
+## What factors do people actually consider before planning a trip?
+According to many researches, the top factors that people consider before planning a trip are as follows:  
+
+1. Correct Season (Right Weather)
+2. Budget
+3. Travel Companions
+4. Reviews / Recommendations
+5. Desired travel experience
+
+A graph depicting the above points is given below:
+
+<iframe title="Factors affecting Travel Patterns (2018)" aria-label="chart" id="datawrapper-chart-ABfU5" src="https://datawrapper.dwcdn.net/ABfU5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="579"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+We see that assessing a country's infrastructure system for an individuals safety is not a top factor affecting a persons travel plan.
 
 
 
