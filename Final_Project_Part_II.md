@@ -27,7 +27,16 @@ A graph depicting the above points is given below:
 
 <iframe title="Factors affecting Travel Patterns (2018)" aria-label="chart" id="datawrapper-chart-ABfU5" src="https://datawrapper.dwcdn.net/ABfU5/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="579"></iframe>
 
-We see that assessing a country's infrastructure system for an individuals safety is not a top factor affecting a persons travel plan.
+We see that assessing a country's infrastructure system for an individuals **safety and security** is not a top factor affecting a persons travel plan. We can easily get this data from [OECD Website](https://data.oecd.org/transport/road-accidents.htm). However a fine tune analysis for each country shall have to be done
+
+## Interview Script
+After a mini brainstorming session, I came up with the following questions to be asked to the reviewes:  
+
+1. Did you know about such an indicator?
+2. Did you ever think of a country infrastructure system before planning a trip?
+3. Did you find this meaningful?
+4. What did you find confusing?
+5. What would you have changed?
 
 
 
