@@ -5,11 +5,15 @@ During the Part I, I received multiple reviews that the analysis of road safety 
 
 
 ## Wireframes and Storyboard
-To enable my data to communicate a better story, I thought to create a small story on **Storyboard**. My ultimate call to action from the data set selected was to   
+To enable my data to communicate a better story, I thought to create a small story on **Storyboard**. My ultimate call to action from the data set selected was to 
+
   i. make sure that people are aware of the safety standards of the G20 countries  
   ii. people take informed decisions before planning a trip to a country as fatal accidents per million people is a report card of the country's infrastructure  
 
 Since, the story had to be a little subtle, I decided to change my project title. Apart from that, I decided to draw a small story along with wireframes on Storyboard so as to ascertain public reaction. The link to my Storyboard creation is - [https://www.storyboardthat.com/storyboards/sanskritsingh/-factors--affecting-travel-plans-/copy](https://www.storyboardthat.com/storyboards/sanskritsingh/-factors--affecting-travel-plans-/copy)
+
+
+
 
 
 
