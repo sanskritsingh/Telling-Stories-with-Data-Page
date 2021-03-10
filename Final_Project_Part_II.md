@@ -60,6 +60,8 @@ Since, the story had to be a little subtle (as learnt from the survey questions)
 
 The data regarding fatal accidents per million people can easily be obtained from [OECD Website](https://data.oecd.org/transport/road-accidents.htm). This is a cumulative data for all the countries associated with Organisation for Economic Co-operation and Development (OECD). This organisation was founded in 1971 to stimulate economic progress and world trade. People who want to have a look at this data can easily go this website - [OECD Website](https://data.oecd.org/transport/road-accidents.htm) and check the indicator of economic progress in terms of fatal accidents. Road accidents are important to be showcased as they are pretty high. As per the CDC report, road accidents are the leading cuase for injury deaths for US Citizens in a foreign country. This is alarming!! - [https://wwwnc.cdc.gov/travel/yellowbook/2020/noninfectious-health-risks/injury-and-trauma](https://wwwnc.cdc.gov/travel/yellowbook/2020/noninfectious-health-risks/injury-and-trauma)
 
+<iframe title="Leading causes of injury death for US citizens in foreign countries, 2015 &amp;amp; 2016" aria-label="chart" id="datawrapper-chart-sSSVR" src="https://datawrapper.dwcdn.net/sSSVR/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400"></iframe>
+
 The trends for accident data amongst G7 and G20 countries are as follows:
 
 A graph for major G7 countries. Interesting this to note is that because of technological advancements most of the countries have a decreasing fatal accidents rate.
