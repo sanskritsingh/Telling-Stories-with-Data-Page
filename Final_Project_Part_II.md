@@ -58,7 +58,7 @@ Since, the story had to be a little subtle (as learnt from the survey questions)
 
 ![20210309 Storyboard-Picture](https://user-images.githubusercontent.com/78463682/110440930-33a00f00-8087-11eb-9b46-2f58ab4e6e92.png)
 
-The data regarding fatal accidents per million people can easily be obtained from [OECD Website](https://data.oecd.org/transport/road-accidents.htm). This is a cumulative data for all the countries associated with Organisation for Economic Co-operation and Development (OECD). This organisation was founded in 1971 to stimulate economic progress and world trade. People who want to have a look at this data can easily go this website - [OECD Website](https://data.oecd.org/transport/road-accidents.htm) and check the indicator of economic progress in terms of fatal accidents. 
+The data regarding fatal accidents per million people can easily be obtained from [OECD Website](https://data.oecd.org/transport/road-accidents.htm). This is a cumulative data for all the countries associated with Organisation for Economic Co-operation and Development (OECD). This organisation was founded in 1971 to stimulate economic progress and world trade. People who want to have a look at this data can easily go this website - [OECD Website](https://data.oecd.org/transport/road-accidents.htm) and check the indicator of economic progress in terms of fatal accidents. Road accidents are important to be showcased as they are pretty high. As per the CDC report, road accidents are the leading cuase for injury deaths for US Citizens in a foreign country. This is alarming!! - [https://wwwnc.cdc.gov/travel/yellowbook/2020/noninfectious-health-risks/injury-and-trauma](https://wwwnc.cdc.gov/travel/yellowbook/2020/noninfectious-health-risks/injury-and-trauma)
 
 The trends for accident data amongst G7 and G20 countries are as follows:
 
@@ -68,15 +68,14 @@ A graph for major G7 countries. Interesting this to note is that because of tech
 A graph for all OECD countries. As can be seen, many developed countries and popular tourist attractions like Russia, Georgia, Argentina, Maldova and Morocco have a very high accident rate.
 <iframe src="https://data.oecd.org/chart/6iYz" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6iYz" target="_blank">OECD Chart: Road accidents, Deaths, Per 1 000 000 inhabitants, Annual, 1994 – 2019</a></iframe>
 
+A graph depicting difference between trends for developing countries like India, Bosnia & Herzegovina and Ukraine with that of developed EU countries like France and Italy. It is imteresting to see that around 1994 fatal accidents were higher in France in Italy because of an evolving traffic. During that time, the developing countries did not have access to good roadways and thus accident rates were less. Its interesting to see how that has changed over time!!
+<iframe src="https://data.oecd.org/chart/6iYC" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6iYC" target="_blank">OECD Chart: Road accidents, Deaths, Per 1 000 000 inhabitants, Annual, 1994 – 2019</a></iframe>
 
+A graph for the largest countries (in square miles). Point to note - data not available for China and Brazil.
+<iframe src="https://data.oecd.org/chart/6iYG" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6iYG" target="_blank">OECD Chart: Road accidents, Deaths, Per 1 000 000 inhabitants, Annual, 1994 – 2019</a></iframe>
 
-
-
-
-
-
-
-
+A graph for trending tourist locations according to a popular Website - **Smarter Travels** (**10 Trending Travel Destinations for 2021**) [Smarter Travel Website](https://www.smartertravel.com/trending-travel-destinations/). We see that most of the popular travel destinations have a fatasl accident rate higher than the world's average for OECD countries!! This is something that we should watch out for!
+<iframe src="https://data.oecd.org/chart/6iYI" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6iYI" target="_blank">OECD Chart: Road accidents, Deaths, Per 1 000 000 inhabitants, Annual, 1994 – 2019</a></iframe>
 
 
 ## Summary
