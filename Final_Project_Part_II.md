@@ -46,7 +46,7 @@ A graph depicting the above points is given below:
 
 <iframe title="Factors affecting Travel Patterns (2018)" aria-label="chart" id="datawrapper-chart-ABfU5" src="https://datawrapper.dwcdn.net/ABfU5/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="579"></iframe>
 
-We see that very few people consider assessing a country's infrastructure system for its **safety and security** as a factor before making their travel plans. Now that tourism and traveling can be associated with a majority of people, it becomes even more important to represent this data to the masses (specially people who travel regularly) so that they can take an informed decision.
+As can be seen from the graph above, very few people consider assessing a country's infrastructure system for its **safety and security** as a factor before making their travel plans. Now that tourism and traveling can be associated with a majority of people, it becomes even more important to represent this data to the masses (specially people who travel regularly) so that they can take an informed decision.
 
 ## Planned changes based on Feedback
 To enable my data to communicate a better story, I thought to create a small story on **Storyboard** after modifying my title. My ultimate call to action from the data set selected is to 
@@ -61,6 +61,16 @@ Since, the story had to be a little subtle (as learnt from the survey questions)
 The data regarding fatal accidents per million people can easily be obtained from [OECD Website](https://data.oecd.org/transport/road-accidents.htm). This is a cumulative data for all the countries associated with Organisation for Economic Co-operation and Development (OECD). This organisation was founded in 1971 to stimulate economic progress and world trade. People who want to have a look at this data can easily go this website - [OECD Website](https://data.oecd.org/transport/road-accidents.htm) and check the indicator of economic progress in terms of fatal accidents. 
 
 The trends for accident data amongst G7 and G20 countries are as follows:
+
+A graph for major G7 countries. Interesting this to note is that because of technological advancements most of the countries have a decreasing fatal accidents rate.
+<iframe src="https://data.oecd.org/chart/6iYv" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6iYv" target="_blank">OECD Chart: Road accidents, Deaths, Per 1 000 000 inhabitants, Annual, 1994 – 2019</a></iframe>
+
+A graph for all OECD countries. As can be seen, many developed countries and popular tourist attractions like Russia, Georgia, Argentina, Maldova and Morocco have a very high accident rate.
+<iframe src="https://data.oecd.org/chart/6iYz" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6iYz" target="_blank">OECD Chart: Road accidents, Deaths, Per 1 000 000 inhabitants, Annual, 1994 – 2019</a></iframe>
+
+
+
+
 
 
 
