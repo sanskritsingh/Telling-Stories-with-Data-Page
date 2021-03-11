@@ -26,6 +26,8 @@ As mentioned in the Outline of the Project, the main aim is to keep the audience
 
 Tableau has been very useful while analyzing what type of chart / graph to use and thus interesting trends would be found using **Tableau**. I have particularly found **Datawrapper** very useful and handy while creating a graph / chart. The options available are super interactive and thus makes it easier to convey a story once the trend is already known. This will be my main method going forward and hopefully, the final project would come out to be nice (as envisaged)!
 
+Link to my Part II of the Project - [Part II](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_Part_II)
+
 
 To go back to the main Portfolio Page, please go to the link below:
 
