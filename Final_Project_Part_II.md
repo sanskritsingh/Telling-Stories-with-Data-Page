@@ -86,10 +86,10 @@ A graph for trending tourist locations according to a popular Website - **Smarte
 ## Call to Action
 The story presented on Storyboard was liked by all the Respondents. 
 
-The final call to action:
-i. If you are a keen traveller, make sure you research issues before you travel and take an informed decision. More details on the website - [OECD Website](https://data.oecd.org/transport/road-accidents.htm)
-ii. make sure that people are aware of the safety standards of the G20 countries.
-iii. One should carry travel insurance at all times while travelling and in case one meets with a road accident in a foreign country, one should call the police officials of the local country at the earliest. If still help is required, one should contact the local embassy! They are obligated to help you in such a condition no matter what the situation is. So saving their number on your phone before the onset of travel might help.
+The final call to action:  
+i. If you are a keen traveller, make sure you research issues before you travel and take an informed decision. More details on the website - [OECD Website](https://data.oecd.org/transport/road-accidents.htm)  
+ii. make sure that people are aware of the safety standards of the G20 countries.  
+iii. One should carry travel insurance at all times while travelling and in case one meets with a road accident in a foreign country, one should call the police officials of the local country at the earliest. If still help is required, one should contact the local embassy! They are obligated to help you in such a condition no matter what the situation is. So saving their number on your phone before the onset of travel might help.  
 
 
 To go back to the main Portfolio Page, please go to the link below:
