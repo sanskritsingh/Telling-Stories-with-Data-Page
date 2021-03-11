@@ -29,6 +29,7 @@ After a thorough analysis and asking these question to different set of people, 
 |    3       | Did you find this meaningful? | They found the data to be meaningful but could not relate to it.   One of the respondent recommended to represent the data in a more subtle way.   Second respondent mentioned that the idea is being pitched too directly and that it should be represented indirectly.  Another respondent mentioned that identifying the right target audience is important and thus the visualization should be presented as a result to an underlying question. | Respondents were happy and thought it is important to know about this data.   This was important for them as road is the most widely  used mode of transportation. Even when one takes train, flights or ferries, the door to door transit is mostly done through roads. Thus they understood the importance of this data and were happy to be made aware of such a data available freely on the internet.  The third respondent's comments was really an eye opener. I would change my topic from **Road Accident Analysis** to **What factors affects your travel plan?** |
 |     4      | What did you find confusing?	| One of the respondent mentioned that she found the intention behind the data visualization to be confusing.  Another respondent mentioned that the data needs to be represented as an illustration.  The other two respondents did not find anything confusing. | Since 50% of the respondents found the visualization / wireframes to be confusing, I decided to have a more catchy title and to present this data where it would make more sense and have a higher applicability.   I finally decided that people who travel might need this data and thus they would be interested to know about these accident trends and comparison of safety amongst countries. |
 |     5      | What would you have changed?	| First respondent was not really sure what he would change in the wireframes but he wanted the data to be presented in a more subtle way.   Second respondent wanted some better illustrations as part of the project.   Third and fourth respondents did not answer this question. They had no answer for improvements to the wireframes. | Title to be changed.   Better visualization of trends to be shown.   More interest to be generated amongst the Respondents for this topic through a more catchy topic |
+|     6      | Respondent's question - What to do if you meet with an accident in a foreign country | There is no answer from the Respondent as this was technically asked by them. I followed multiple routine papers online to find out an answer to this question | The travel websites recommend you to carry travel insurance at all times and call the police officials of the local country at the earliest. If still help is required, one should contact the local embassy! They are obligated to help you in such a condition no matter what the situation is. |
 
 
 Since the title of the topic was changed, I started researching more about the topics where this data would be more relevant. It was found that people who go on frequent trips will find this data useful. They could use this data to take an informed decision. On researching what factors do people consider before taking a trip, I found some insightful results.
@@ -49,12 +50,12 @@ A graph depicting the above points is given below:
 As can be seen from the graph above, very few people consider assessing a country's infrastructure system for its **safety and security** as a factor before making their travel plans. Now that tourism and traveling can be associated with a majority of people, it becomes even more important to represent this data to the masses (specially people who travel regularly) so that they can take an informed decision.
 
 ## Planned changes based on Feedback
-To enable my data to communicate a better story, I thought to create a small story on **Storyboard** after modifying my title. My ultimate call to action from the data set selected is to 
+To enable my data to communicate a better story, I thought to create a small story on **Storyboard** after modifying my title. With the changes received through the feedback, I want to: 
 
   i. make sure that people are aware of the safety standards of the G20 countries  
-  ii. people take informed decisions before planning a trip to a country as fatal accidents per million people is a report card of the country's infrastructure  
+  ii. make sure that people take informed decisions before planning a trip to a country as fatal accidents per million people is a genuine report card of the country's infrastructure  
 
-Since, the story had to be a little subtle (as learnt from the survey questions), I decided to change my project title. Apart from that, I decided to draw a small story along with wireframes on Storyboard so as to ascertain public reaction. The link to my Storyboard creation is - [https://www.storyboardthat.com/storyboards/sanskritsingh/-factors--affecting-travel-plans-/copy](https://www.storyboardthat.com/storyboards/sanskritsingh/-factors--affecting-travel-plans-/copy). A copy of it is being produced below for ready reference.
+Since, the story had to be a little subtle (as learnt from the survey questions), I decided to change my project title. Apart from that, I decided to draw a small story along with wireframes on Storyboard to ascertain public reaction. The link to my Storyboard creation is - [https://www.storyboardthat.com/storyboards/sanskritsingh/-factors--affecting-travel-plans-/copy](https://www.storyboardthat.com/storyboards/sanskritsingh/-factors--affecting-travel-plans-/copy). A copy of it is being produced below for ready reference.
 
 ![20210309 Storyboard-Picture](https://user-images.githubusercontent.com/78463682/110440930-33a00f00-8087-11eb-9b46-2f58ab4e6e92.png)
 
@@ -70,7 +71,7 @@ A graph for major G7 countries. Interesting this to note is that because of tech
 A graph for all OECD countries. As can be seen, many developed countries and popular tourist attractions like Russia, Georgia, Argentina, Maldova and Morocco have a very high accident rate.
 <iframe src="https://data.oecd.org/chart/6iYz" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6iYz" target="_blank">OECD Chart: Road accidents, Deaths, Per 1 000 000 inhabitants, Annual, 1994 – 2019</a></iframe>
 
-A graph depicting difference between trends for developing countries like India, Bosnia & Herzegovina and Ukraine with that of developed EU countries like France and Italy. It is imteresting to see that around 1994 fatal accidents were higher in France in Italy because of an evolving traffic. During that time, the developing countries did not have access to good roadways and thus accident rates were less. Its interesting to see how that has changed over time!!
+A graph depicting difference between trends for developing countries like India, Bosnia & Herzegovina, and Ukraine with that of developed EU countries like France and Italy. Around 1994 fatal accidents were higher in France and Italy because of an evolving traffic. During that time, the developing countries did not have access to good roadways and thus accident rates were less. It is interesting to see how that has changed over time!!
 <iframe src="https://data.oecd.org/chart/6iYC" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6iYC" target="_blank">OECD Chart: Road accidents, Deaths, Per 1 000 000 inhabitants, Annual, 1994 – 2019</a></iframe>
 
 A graph for the largest countries (in square miles). Point to note - data not available for China and Brazil.
@@ -80,15 +81,13 @@ A graph for trending tourist locations according to a popular Website - **Smarte
 <iframe src="https://data.oecd.org/chart/6iYI" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6iYI" target="_blank">OECD Chart: Road accidents, Deaths, Per 1 000 000 inhabitants, Annual, 1994 – 2019</a></iframe>
 
 
-## Summary
-The story presented on Storyboard was liked by all the Respondents. They definitely thought that these illustrations were much better then before. The country's fatal accidents tells us about the condition of its infrastructure and thus is important for people to know.  It is more like a **report card of a country's infrastructure system**. The story would be built using **Shorthand**. Appropriate graphs and trends would be designed using **Tableau and Datawrapper**
+## Call to Action
+The story presented on Storyboard was liked by all the Respondents. 
 
-
-To go back to the main Portfolio Page, please go to the link below:
-
-[https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/)
-
-
+The final call to action:
+i. If you are a keen traveller, make sure you research issues before you travel and take an informed decision. More details on the website - [OECD Website](https://data.oecd.org/transport/road-accidents.htm)
+ii. make sure that people are aware of the safety standards of the G20 countries.
+iii. One should carry travel insurance at all times while travelling and in case one meets with a road accident in a foreign country, one should call the police officials of the local country at the earliest. If still help is required, one should contact the local embassy! They are obligated to help you in such a condition no matter what the situation is. So saving their number on your phone before the onset of travel might help.
 
 
 To go back to the main Portfolio Page, please go to the link below:
