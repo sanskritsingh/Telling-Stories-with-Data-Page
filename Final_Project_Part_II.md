@@ -1,6 +1,8 @@
 # What factors affect your travel plan?
 
 ## Background from Part I
+The link to my Project Part I can be found here - [Part I](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_SanskritSingh)
+
 During the Part I, I received multiple reviews that the analysis of road safety data is more of a presentation of data and would be better if conveyed through a story. It was told to me that the facts are being represented too directly and that it needs to be presented in a more subtle way. I spent multiple nights thinking about it and did multiple researches to bring about a topic that could be informative as well as interesting. Since, I had a clear picture of my audience in mind (the people who are travel enthusiasts and travel regularly), I thought to change my title from **Road Safety Analysis** to **What factors affect your travel plan?**. More details would be illustrated in the interview findings section in due course of time. 
 
 
