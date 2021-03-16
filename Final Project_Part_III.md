@@ -38,6 +38,12 @@ The final call to action was decided after I decided that all people who are tra
 - Contact the [local embassy](https://travel.state.gov/content/travel/en/contact-us/Emergencies-Abroad.html)
   From the U.S. & Canada  - 1-888-407-4747
   From Overseas - +1 202-501-4444
+  
+Link to my Project Part I can be found here - [Part I](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_SanskritSingh)  
+
+Link to my Project Part II can be found here - [Part II](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_Part_II)
+
+Link to my Shorthand Presentation can be found here - [Shorthand Presentation](https://carnegiemellon.shorthandstories.com/what-factors-affect-travel-plan/index.html)
 
 To go back to the main Portfolio Page, please go to the link below:
 
