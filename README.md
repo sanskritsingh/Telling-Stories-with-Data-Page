@@ -16,6 +16,8 @@ Final project - Part II - What factors affect your travel plan? - [https://sansk
 
 Final project - Part III - What factots affect your travel plan? - [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final%20Project_Part_III](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final%20Project_Part_III)
 
+Link to my Shorthand Presentation - [What factors affect your travel plans?](https://carnegiemellon.shorthandstories.com/what-factors-affect-travel-plan/index.html)
+
 
 ## About Me
 
@@ -55,3 +57,4 @@ The second visulaization is the central government debt for the year 2018 for va
 ![Adaptable Line Chart 4](https://user-images.githubusercontent.com/78463682/108619737-bc1a8080-73f4-11eb-8456-661a4ef7042a.jpg)
 ![Adaptable Line Chart 5](https://user-images.githubusercontent.com/78463682/108619738-bcb31700-73f4-11eb-9bbb-a0d1e3dc7863.jpg)
 ![The Convoluted - Chart 1](https://user-images.githubusercontent.com/78463682/108619740-bde44400-73f4-11eb-85d4-db49083ab728.jpg)
+![20210309 Storyboard-Picture](https://user-images.githubusercontent.com/78463682/111280812-a3c40d00-8612-11eb-8c46-d9f4618d36d1.png)
