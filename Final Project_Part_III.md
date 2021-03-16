@@ -7,8 +7,8 @@ The link to my Project Part II can be found here - [Part II](https://sanskritsin
 ## Review of Project Part II in Class
 The Project Part II was presented to my fellow classmates in the breakout toom and received a couple of more suggestions:
 
-| Sl. No. | Name  | Suggestion | Final intended Action |
-| ------------- | ----------------------- | --------------------------------------------------------- | ------------------------------------------------------- |
+| Sl. No. | Name  | Suggestion | Final intended Action (Summary) |
+| ------------- | ----------------------- | --------------------------------------------------------- | ----------------------------------------------------------- |
 | 1 | Rakshanda | She asked me a question - "What to do if you meet with an accident in a foreign country" | I tried to research on this and found a few suggestions and decided to finally include that in my final Shorthand presentation |
 | 2 | B Crittenden | She suggested to reduce the number of final graphs as it is difficult to read so many graphs together | I accepted this suggestion and decided to use two most relevant graphs in the final Shorthand Presentation |
 | 3 | Rakshanda and B Crittenden | Both of then thought that the CDC report for leading causes of injusry deaths for US Citizens was a graph which speaks a lot about the issue and to give more stress on that graph | I decided to use it during the first few slides of the shorthand presentation itself |
@@ -23,6 +23,8 @@ Overall I just focused on the final output that was decided in the course of tim
 
 ## Visualization
 There are around 4 visualizations were used in the final presentation. A couple of them were sourced from the data collected from [OECD Website](https://data.oecd.org/transport/road-accidents.htm). The other graphs have been drawn on Datawrapper and have the source mentioned on them. 
+
+Keeping the audience in mind, the backgrounds have been constantly kept from different road trips. The different backgrounds are from the different continents of the world and placed so as to be aesthetically pleasing for viewers. 
 
 ## Final Call to Action
 The final call to action was decided after I decided that all people who are travel enthisiuats are my target audience for the final data story
@@ -39,6 +41,15 @@ The final call to action was decided after I decided that all people who are tra
   From the U.S. & Canada  - 1-888-407-4747
   From Overseas - +1 202-501-4444
   
+## Citations / Bibliography
+
+1. Images have been sourced from [Google](www.google.com)
+2. Definition of Tourism from [Wikipedia](https://en.wikipedia.org/wiki/Tourism)
+3. Data for growth in [Tourism industry](https://ourworldindata.org/tourism#:~:text=Arrivals%20by%20world%20region,-This%20visualization%20shows&text=The%20United%20Nations%20World%20Tourism,is%20a%2056%2Dfold%20increase.)
+4. Factors affecting travel pattern sourced from popular website - [Focused Travel](https://focusedtravels.com/travel-destination)
+5. [Local Embassy Details](https://travel.state.gov/content/travel/en/contact-us/Emergencies-Abroad.html)
+
+
 Link to my Project Part I can be found here - [Part I](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_SanskritSingh)  
 
 Link to my Project Part II can be found here - [Part II](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_Part_II)
