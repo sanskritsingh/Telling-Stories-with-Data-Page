@@ -14,6 +14,8 @@ Final project - Road Safety Analysis - [https://sanskritsingh.github.io/Telling-
 
 Final project - Part II - What factors affect your travel plan? - [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_Part_II](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_Part_II)
 
+Final project - Part III - What factots affect your travel plan? - [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final%20Project_Part_III](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final%20Project_Part_III)
+
 
 ## About Me
 
