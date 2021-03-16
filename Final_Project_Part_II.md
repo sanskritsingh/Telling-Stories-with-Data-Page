@@ -92,6 +92,10 @@ ii. make sure that people are aware of the safety standards of the G20 countries
 iii. One should carry travel insurance at all times while travelling and in case one meets with a road accident in a foreign country, one should call the police officials of the local country at the earliest. If still help is required, one should contact the local embassy! They are obligated to help you in such a condition no matter what the situation is. So saving their number on your phone before the onset of travel might help.  
 
 
+Link to my Part I of the Project [Part I](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final%20Project_Part_III)
+
+Link to my Part III of the Project  [Part III](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final%20Project_Part_III)
+
 To go back to the main Portfolio Page, please go to the link below:
 
 [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/)
