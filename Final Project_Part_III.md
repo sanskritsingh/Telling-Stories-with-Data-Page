@@ -1,99 +1,43 @@
 # What factors affect your travel plan?
 
 ## Background from Part I
-The link to my Project Part I can be found here - [Part I](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_SanskritSingh)
+The link to my Project Part I can be found here - [Part I](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_SanskritSingh)  
 The link to my Project Part II can be found here - [Part II](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_Part_II)
 
+## Review of Project Part II in Class
+The Project Part II was presented to my fellow classmates in the breakout toom and received a couple of more suggestions:
+
+| Sl. No. | Name  | Suggestion | Final intended Action |
+| ------------- | ----------------------- | --------------------------------------------------------- | ------------------------------------------------------- |
+| 1 | Rakshanda | She asked me a question - "What to do if you meet with an accident in a foreign country" | I tried to research on this and found a few suggestions and decided to finally include that in my final Shorthand presentation |
+| 2 | B Crittenden | She suggested to reduce the number of final graphs as it is difficult to read so many graphs together | I accepted this suggestion and decided to use two most relevant graphs in the final Shorthand Presentation |
+| 3 | Rakshanda and B Crittenden | Both of then thought that the CDC report for leading causes of injusry deaths for US Citizens was a graph which speaks a lot about the issue and to give more stress on that graph | I decided to use it during the first few slides of the shorthand presentation itself |
+| 4 | B. Crittenden | Refine further the call to action | I decided to make people aware about the data available on the OECD website and how to reach if one meets with an accident in a foreign country |
+
+## Shorthand
+After crystallizing the changes, I started with the preparation of presentation omn Shorthand. Shorthand is pretty interactive and easy to use especially when you want to have multiple layers of media and have background scrollmation. Part I and Part II gave me an idea of how the presentation should look like and the further comments by my fellow classmates even refined the content.
+
+I tried to put a footnote of all the links that I used for the creation of the presentation. I also put up a Bibliography in the end and put up all the links used for the creation of the presentation. Few pictures were sources from Google.
+
+Overall I just focused on the final output that was decided in the course of time. Suggestions from both Part I and Part II were actively accepted.
+
+## Visualization
+There are around 4 visualizations were used in the final presentation. A couple of them were sourced from the data collected from [OECD Website](https://data.oecd.org/transport/road-accidents.htm). The other graphs have been drawn on Datawrapper and have the source mentioned on them. 
+
+## Final Call to Action
+The final call to action was decided after I decided that all people who are travel enthisiuats are my target audience for the final data story
+
+1. What to do before you plan your travel?
+- Make sure that people are aware of the **safety standards** of the country you are planning to travel
+- Details about road accidents and fatal accidents can be found out on the **OECD Website**
 
 
-During the Part I, I received multiple reviews that the analysis of road safety data is more of a presentation of data and would be better if conveyed through a story. It was told to me that the facts are being represented too directly and that it needs to be presented in a more subtle way. I spent multiple nights thinking about it and did multiple researches to bring about a topic that could be informative as well as interesting. Since, I had a clear picture of my audience in mind (the people who are travel enthusiasts and travel regularly), I thought to change my title from **Road Safety Analysis** to **What factors affect your travel plan?**. More details would be illustrated in the interview findings section in due course of time. 
-
-
-## Wireframes and Storyboard
-My wireframes in the Part I of the final project dealt more with analyzing the data and showing interesting trends for information. I wanted to consider only genuine data and thus OECD Website looked like a great option. For drawing comparisons, graphs between the data from the G7 or G20 countries were to be shown which would compare similar countries against each other and thus give us an indicator (infrastructure) for alike countries.
-
-However, taking the idea with a pinch of salt, presenting this data where it is actually useful seems to be a better idea. Thus, I started developing a questionnaire / survey for the respondents so that improvements could be made to the Part II of the final project. 
-
-## Interview Script
-After a mini brainstorming session, I came up with the following questions to be asked to the respondents for a feedback on my wireframes and idea for final project:  
-
-1. Did you know about such an indicator?
-2. Did a trend of a country's infrastructure interest them?
-3. Did you find this meaningful?
-4. What did you find confusing?
-5. What would you have changed?
-
-
-## Interview Findings
-After a thorough analysis and asking these question to different set of people, I want to recreate my findings in a tabular form for your ready reference.
-
-| **Sl. No** | **Script Questions** | **Respondent's Answer** | **Planned Changes** |
-| ---------- | ----------------------------- | -------------------------------------------------- | ---------------------------------------------------------------- |
-|     1      | Did you know about such an indicator? | One Respondent knew about OECD organisation but did not know about such trivial data sets. Other respondents had no clue about such data being available and had no idea about this organisation	The first aim of the project gets fulfilled to give new set of information to people. | During the final call to action, a link to the website would be given so that people could check out the website to obtain accident related information for whatever reason they think is important |
-|     2      | 	Did a trend of a country's infrastructure interest them? | The topic seem to be of interest to all Respondents. They were inquisitive to know more about the trends.   They were interested to know the trends between accidents from different countries.   One of them also said that they would be interested in this trend only when they were reading about that country or planning to go there. | Based on the responses, it was understood that the title of the project needs a replacement. Since people into tourism / travel might require such information a topic based on that line shall be thought. |
-|    3       | Did you find this meaningful? | They found the data to be meaningful but could not relate to it.   One of the respondent recommended to represent the data in a more subtle way.   Second respondent mentioned that the idea is being pitched too directly and that it should be represented indirectly.  Another respondent mentioned that identifying the right target audience is important and thus the visualization should be presented as a result to an underlying question. | Respondents were happy and thought it is important to know about this data.   This was important for them as road is the most widely  used mode of transportation. Even when one takes train, flights or ferries, the door to door transit is mostly done through roads. Thus they understood the importance of this data and were happy to be made aware of such a data available freely on the internet.  The third respondent's comments was really an eye opener. I would change my topic from **Road Accident Analysis** to **What factors affects your travel plan?** |
-|     4      | What did you find confusing?	| One of the respondent mentioned that she found the intention behind the data visualization to be confusing.  Another respondent mentioned that the data needs to be represented as an illustration.  The other two respondents did not find anything confusing. | Since 50% of the respondents found the visualization / wireframes to be confusing, I decided to have a more catchy title and to present this data where it would make more sense and have a higher applicability.   I finally decided that people who travel might need this data and thus they would be interested to know about these accident trends and comparison of safety amongst countries. |
-|     5      | What would you have changed?	| First respondent was not really sure what he would change in the wireframes but he wanted the data to be presented in a more subtle way.   Second respondent wanted some better illustrations as part of the project.   Third and fourth respondents did not answer this question. They had no answer for improvements to the wireframes. | Title to be changed.   Better visualization of trends to be shown.   More interest to be generated amongst the Respondents for this topic through a more catchy topic |
-|     6      | Respondent's question - What to do if you meet with an accident in a foreign country? | There is no answer from the Respondent as this was technically asked by them. I followed multiple routine papers online to find out an answer to this question | The travel websites recommend you to carry travel insurance at all times and call the police officials of the local country at the earliest. If still help is required, one should contact the local embassy! They are obligated to help you in such a condition no matter what the situation is. |
-
-
-Since the title of the topic was changed, I started researching more about the topics where this data would be more relevant. It was found that people who go on frequent trips will find this data useful. They could use this data to take an informed decision. On researching what factors do people consider before taking a trip, I found some insightful results.
-
-## What factors do people actually consider before planning a trip?
-According to many researches and one of the popular Website - **Focused Travels**, the top factors that people consider before planning a trip are as follows:  
-
-1. Correct Season (Right Weather)
-2. Budget
-3. Travel Companions
-4. Reviews / Recommendations
-5. Desired travel experience
-
-A graph depicting the above points is given below:
-
-<iframe title="Factors affecting Travel Patterns (2018)" aria-label="chart" id="datawrapper-chart-ABfU5" src="https://datawrapper.dwcdn.net/ABfU5/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="579"></iframe>
-
-As can be seen from the graph above, very few people consider assessing a country's infrastructure system for its **safety and security** as a factor before making their travel plans. Now that tourism and traveling can be associated with a majority of people, it becomes even more important to represent this data to the masses (specially people who travel regularly) so that they can take an informed decision.
-
-## Planned changes based on Feedback
-To enable my data to communicate a better story, I thought to create a small story on **Storyboard** after modifying my title. With the changes received through the feedback, I want to: 
-
-  i. make sure that people are aware of the safety standards of the G20 countries  
-  ii. make sure that people take informed decisions before planning a trip to a country as fatal accidents per million people is a genuine report card of the country's infrastructure  
-
-Since, the story had to be a little subtle (as learnt from the survey questions), I decided to change my project title. Apart from that, I decided to draw a small story along with wireframes on Storyboard to ascertain public reaction. The link to my Storyboard creation is - [https://www.storyboardthat.com/storyboards/sanskritsingh/-factors--affecting-travel-plans-/copy](https://www.storyboardthat.com/storyboards/sanskritsingh/-factors--affecting-travel-plans-/copy). A copy of it is being produced below for ready reference.
-
-![20210309 Storyboard-Picture](https://user-images.githubusercontent.com/78463682/110440930-33a00f00-8087-11eb-9b46-2f58ab4e6e92.png)
-
-The data regarding fatal accidents per million people can easily be obtained from [OECD Website](https://data.oecd.org/transport/road-accidents.htm). This is a cumulative data for all the countries associated with Organisation for Economic Co-operation and Development (OECD). This organisation was founded in 1971 to stimulate economic progress and world trade. People who want to have a look at this data can easily go this website - [OECD Website](https://data.oecd.org/transport/road-accidents.htm) and check the indicator of economic progress in terms of fatal accidents. Road accidents are important to be showcased as they are pretty high. As per the CDC report, road accidents are the leading cuase for injury deaths for US Citizens in a foreign country. This is alarming!! - [https://wwwnc.cdc.gov/travel/yellowbook/2020/noninfectious-health-risks/injury-and-trauma](https://wwwnc.cdc.gov/travel/yellowbook/2020/noninfectious-health-risks/injury-and-trauma)
-
-<iframe title="Leading causes of injury death for US citizens in foreign countries, 2015 &amp;amp; 2016" aria-label="chart" id="datawrapper-chart-sSSVR" src="https://datawrapper.dwcdn.net/sSSVR/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400"></iframe>
-
-The trends for accident data amongst G7 and G20 countries are as follows:
-
-A graph for major G7 countries. Interesting this to note is that because of technological advancements most of the countries have a decreasing fatal accidents rate.
-<iframe src="https://data.oecd.org/chart/6iYv" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6iYv" target="_blank">OECD Chart: Road accidents, Deaths, Per 1 000 000 inhabitants, Annual, 1994 – 2019</a></iframe>
-
-A graph for all OECD countries. As can be seen, many developed countries and popular tourist attractions like Russia, Georgia, Argentina, Maldova and Morocco have a very high accident rate.
-<iframe src="https://data.oecd.org/chart/6iYz" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6iYz" target="_blank">OECD Chart: Road accidents, Deaths, Per 1 000 000 inhabitants, Annual, 1994 – 2019</a></iframe>
-
-A graph depicting difference between trends for developing countries like India, Bosnia & Herzegovina, and Ukraine with that of developed EU countries like France and Italy. Around 1994 fatal accidents were higher in France and Italy because of an evolving traffic. During that time, the developing countries did not have access to good roadways and thus accident rates were less. It is interesting to see how that has changed over time!!
-<iframe src="https://data.oecd.org/chart/6iYC" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6iYC" target="_blank">OECD Chart: Road accidents, Deaths, Per 1 000 000 inhabitants, Annual, 1994 – 2019</a></iframe>
-
-A graph for the largest countries (in square miles). Point to note - data not available for China and Brazil.
-<iframe src="https://data.oecd.org/chart/6iYG" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6iYG" target="_blank">OECD Chart: Road accidents, Deaths, Per 1 000 000 inhabitants, Annual, 1994 – 2019</a></iframe>
-
-A graph for trending tourist locations according to a popular Website - **Smarter Travels** (**10 Trending Travel Destinations for 2021**) [Smarter Travel Website](https://www.smartertravel.com/trending-travel-destinations/). We see that most of the popular travel destinations have a fatasl accident rate higher than the world's average for OECD countries!! This is something that we should watch out for!
-<iframe src="https://data.oecd.org/chart/6iYI" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6iYI" target="_blank">OECD Chart: Road accidents, Deaths, Per 1 000 000 inhabitants, Annual, 1994 – 2019</a></iframe>
-
-
-## Call to Action
-The story presented on Storyboard was liked by all the Respondents. 
-
-The final call to action:  
-i. If you are a keen traveller, make sure you research issues before you travel and take an informed decision. More details on the website - [OECD Website](https://data.oecd.org/transport/road-accidents.htm)  
-ii. make sure that people are aware of the safety standards of the G20 countries.  
-iii. One should carry travel insurance at all times while travelling and in case one meets with a road accident in a foreign country, one should call the police officials of the local country at the earliest. If still help is required, one should contact the local embassy! They are obligated to help you in such a condition no matter what the situation is. So saving their number on your phone before the onset of travel might help.  
-
+2. What to do in case you are involved in an accident internationally?  
+- Carry travel insurance
+- Contact the local police
+- Contact the [local embassy](https://travel.state.gov/content/travel/en/contact-us/Emergencies-Abroad.html)
+  From the U.S. & Canada  - 1-888-407-4747
+  From Overseas - +1 202-501-4444
 
 To go back to the main Portfolio Page, please go to the link below:
 
