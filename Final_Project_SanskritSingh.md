@@ -28,6 +28,8 @@ Tableau has been very useful while analyzing what type of chart / graph to use a
 
 Link to my Part II of the Project - [Part II](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_Part_II)
 
+Link to my Part III of the Project - [Part III](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final%20Project_Part_III)
+
 
 To go back to the main Portfolio Page, please go to the link below:
 
