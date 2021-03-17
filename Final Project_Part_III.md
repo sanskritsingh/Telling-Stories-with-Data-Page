@@ -1,6 +1,6 @@
 # What factors affect your travel plan?
 
-## Background from Part I
+## Background
 The link to my Project Part I can be found here - [Part I](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_SanskritSingh)  
 The link to my Project Part II can be found here - [Part II](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Final_Project_Part_II)
 
