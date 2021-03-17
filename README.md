@@ -58,3 +58,7 @@ The second visulaization is the central government debt for the year 2018 for va
 ![Adaptable Line Chart 5](https://user-images.githubusercontent.com/78463682/108619738-bcb31700-73f4-11eb-9bbb-a0d1e3dc7863.jpg)
 ![The Convoluted - Chart 1](https://user-images.githubusercontent.com/78463682/108619740-bde44400-73f4-11eb-85d4-db49083ab728.jpg)
 ![20210309 Storyboard-Picture](https://user-images.githubusercontent.com/78463682/111280812-a3c40d00-8612-11eb-8c46-d9f4618d36d1.png)
+
+<iframe title="Fatal Accidents per million People" aria-label="Map" id="datawrapper-chart-uKNC0" src="https://datawrapper.dwcdn.net/uKNC0/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="361"></iframe>
+
+<iframe title="Insert title here Fatal Accidents per million People" aria-label="Map" id="datawrapper-chart-ljSO0" src="https://datawrapper.dwcdn.net/ljSO0/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="361"></iframe>
