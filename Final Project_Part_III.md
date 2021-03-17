@@ -13,6 +13,7 @@ The Project Part II was presented to my fellow classmates in the breakout toom a
 | 2 | B Crittenden | She suggested to reduce the number of final graphs as it is difficult to read so many graphs together | I accepted this suggestion and decided to use two most relevant graphs in the final Shorthand Presentation |
 | 3 | Rakshanda and B Crittenden | Both of then thought that the CDC report for leading causes of injusry deaths for US Citizens was a graph which speaks a lot about the issue and to give more stress on that graph | I decided to use it during the first few slides of the shorthand presentation itself |
 | 4 | B. Crittenden | Refine further the call to action | I decided to make people aware about the data available on the OECD website and how to reach if one meets with an accident in a foreign country |
+| 5 | Prof Goranson | You could add more visualizations as there are only 2 original visualizations | I will add a comparative world map of accidents for 1994 vs accidents for 2017 |
 
 ## Shorthand
 After crystallizing the changes, I started with the preparation of presentation omn Shorthand. Shorthand is pretty interactive and easy to use especially when you want to have multiple layers of media and have background scrollmation. Part I and Part II gave me an idea of how the presentation should look like and the further comments by my fellow classmates even refined the content.
