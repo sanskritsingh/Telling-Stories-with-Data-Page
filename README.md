@@ -1,10 +1,10 @@
 ## Telling-Stories-with-Data-Page
 
-This is my GitHub Portfolio!
+This is my GitHub Portfolio! Below is a collection of my work from the Course - Telling Stories with Data for the Spring 2021 semester at Carnegie Mellon University under the able guidance of Prof. Christopher Goranson.
 
 Assignment 1 - Link to live site - [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/)
 
-Week 2 - In Class - [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/King%20County%20Data](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/King%20County%20Data)
+Week 2 - In Class Visualizations - [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/King%20County%20Data](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/King%20County%20Data)
 
 Assignment 2 - Visualizing Govt Debt - [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Visualizing%20Govt%20Debt](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/Visualizing%20Govt%20Debt)
 
@@ -27,6 +27,10 @@ My name is Sanskrit Singh (He/His/Him). I am from the northern part of India. I 
 
 I wish to learn more about data visualization so that I can make good use of the transportation data and effectively portray them to convey a story. There is immense amount of data pertaining to the traffic industry and I hope this course will enable me to present data well. In the long run, I would want a fulfilling career in the Transportation / Green Infrastructure consulting industry.
 
+For my final project, I have carried an analysis on what factors affect your travel plans? I have done an analysis of number of fatal accidents for [OECD](https://data.oecd.org/transport/road-accidents.htm) Countries. The trends are interesting and really can be informational. I have later gone on to research that for citizens in US, road accidents are the leading cause of injury deaths. Out of 1700 fatal accidents in 2017 & 2018, around 721 fatal accidents were because of road accidents. This number is alarming and I have tried to show this through a visualization attached later on my portfolio. I even provided solution for people, they could look up for accident data to take an informed decision. Also, if they are caught in an accident in a foreign country, steps are enlisted to take care of themselves. The main aim was to ensure people travel carefree.
+
+As a part of this course, I also learned about data critique. To analyse a given set of a visualization is an art. The common phases of a story are - setup, conflict, solution and then call to action. These helped me visualize and critique better. these have also helped me prepare better visualizations.
+
 ## Portfolio
 
 The first visualization is regarding percentage of money spent by countries on pension schemes compared to percentage of population above 65 years
@@ -40,6 +44,8 @@ The second visulaization is the central government debt for the year 2018 for va
 
 
 ## Some of the other works that I have done pertaining to this class and data visualization - 
+
+Some of the visualizations are wireframes and have been drawn manually. Some interesting tools have been used to draw visualizations digitally like Datawrapper, Fluorish, Tableau, Rawgraphs, Kappler, Noun Project, Shorthand, Moodboard, Balsamiq, Canva, Hubspot to make my persona etc. These tools have been really insighful and helped communicate a story better.
 
 ![20210207 The Simple Pie - Assignment 1](https://user-images.githubusercontent.com/78463682/107310652-d3538880-6a5a-11eb-9642-7a56569ab945.png)
 ![20210207 The Tangles Lines - Assignment 1](https://user-images.githubusercontent.com/78463682/107310654-d3ec1f00-6a5a-11eb-9977-aa51f2c0cb09.jpg)
