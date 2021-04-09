@@ -18,6 +18,8 @@ Final project - Part III - What factots affect your travel plan? - [https://sans
 
 Link to my Shorthand Presentation - [What factors affect your travel plans?](https://carnegiemellon.shorthandstories.com/what-factors-affect-travel-plan/index.html)
 
+Link to visualizations for AIS Projects - [https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/AIS%20Projects](https://sanskritsingh.github.io/Telling-Stories-with-Data-Page/AIS%20Projects)
+
 
 ## About Me
 
