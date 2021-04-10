@@ -5,3 +5,14 @@
 <iframe title="Gender Dynamics for the Survey" aria-label="chart" id="datawrapper-chart-HQ37i" src="https://datawrapper.dwcdn.net/HQ37i/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="562"></iframe>
 
 <iframe title="Age Group Demographics" aria-label="chart" id="datawrapper-chart-ZpQpw" src="https://datawrapper.dwcdn.net/ZpQpw/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="712"></iframe>
+
+<iframe title="Which of the following community vaccination rates best describes what you would need to feel comfortable taking public transit?
+" aria-label="chart" id="datawrapper-chart-OjRJs" src="https://datawrapper.dwcdn.net/OjRJs/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="596"></iframe>
+
+<iframe title="Which of the following community vaccination rates best describes what you would need to feel comfortable taking public transit? " aria-label="chart" id="datawrapper-chart-7plev" src="https://datawrapper.dwcdn.net/7plev/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="464"></iframe>
+
+<iframe title="Which of the following community vaccination rates best describes what you would need to feel comfortable taking public transit?" aria-label="chart" id="datawrapper-chart-1yxFn" src="https://datawrapper.dwcdn.net/1yxFn/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="491"></iframe>
+
+<iframe title="Which of the following community vaccination rates best describes what you would need to feel comfortable taking public transit?" aria-label="chart" id="datawrapper-chart-lK2gN" src="https://datawrapper.dwcdn.net/lK2gN/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="491"></iframe>
+
+<iframe title="Which of the following community vaccination rates best describes what you would need to feel comfortable taking public transit?" aria-label="chart" id="datawrapper-chart-7K3LO" src="https://datawrapper.dwcdn.net/7K3LO/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="491"></iframe>
