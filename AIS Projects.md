@@ -39,7 +39,11 @@
 
 <iframe title="Before the pandemic (March 2020), did you use public transportation? " aria-label="chart" id="datawrapper-chart-yvLzb" src="https://datawrapper.dwcdn.net/yvLzb/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="616"></iframe>
 
+<iframe title="Before March 2020, was public transportation easily accessible for your use?" aria-label="chart" id="datawrapper-chart-Ev3Qj" src="https://datawrapper.dwcdn.net/Ev3Qj/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="616"></iframe>
+
 <iframe title="After August 2021, would you consider using public transportation?" aria-label="chart" id="datawrapper-chart-0XFcS" src="https://datawrapper.dwcdn.net/0XFcS/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="616"></iframe>
+
+
 
 
 
