@@ -27,3 +27,7 @@
 <iframe title="Which strategy would you need to comfortably use public transit regularly?" aria-label="Bar Chart" id="datawrapper-chart-EF5vu" src="https://datawrapper.dwcdn.net/EF5vu/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="451"></iframe>
 
 <iframe title="Which strategy would you need to comfortably use public transit regularly?" aria-label="Bar Chart" id="datawrapper-chart-PPPa3" src="https://datawrapper.dwcdn.net/PPPa3/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="432"></iframe>
+
+
+#Attempt 2 - Final Infographics
+
