@@ -50,5 +50,7 @@
 
 <iframe title="Which strategy would you need to comfortably use public transit regularly?" aria-label="Bar Chart" id="datawrapper-chart-n1wQe" src="https://datawrapper.dwcdn.net/n1wQe/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="538"></iframe>
 
+<iframe title="Which strategy would you need to comfortably use public transit regularly?" aria-label="Bar Chart" id="datawrapper-chart-RaZAj" src="https://datawrapper.dwcdn.net/RaZAj/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="344"></iframe>
+
 
 
