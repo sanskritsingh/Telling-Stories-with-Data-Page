@@ -33,5 +33,11 @@
 
 <iframe title="Demographics details from the Survey conducted" aria-label="chart" id="datawrapper-chart-ckIS1" src="https://datawrapper.dwcdn.net/ckIS1/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="589"></iframe>
 
+<iframe title="Age Group Demographics" aria-label="Column Chart" id="datawrapper-chart-ZpQpw" src="https://datawrapper.dwcdn.net/ZpQpw/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="306"></iframe>
+
+<iframe title="Gender Dynamics for the Survey" aria-label="Column Chart" id="datawrapper-chart-HQ37i" src="https://datawrapper.dwcdn.net/HQ37i/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="589"></iframe>
+
+<iframe title="Before the pandemic (March 2020), did you use public transportation? " aria-label="chart" id="datawrapper-chart-yvLzb" src="https://datawrapper.dwcdn.net/yvLzb/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="616"></iframe>
+
 
 
