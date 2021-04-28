@@ -37,7 +37,9 @@
 
 <iframe title="Gender Dynamics for the Survey" aria-label="Column Chart" id="datawrapper-chart-HQ37i" src="https://datawrapper.dwcdn.net/HQ37i/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="589"></iframe>
 
-<iframe title="Before the pandemic (March 2020), did you use public transportation? " aria-label="chart" id="datawrapper-chart-yvLzb" src="https://datawrapper.dwcdn.net/yvLzb/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="616"></iframe>
+<iframe title="Before the pandemic (March 2020), did you use public transportation? " aria-label="chart" id="datawrapper-chart-yvLzb" src="https://datawrapper.dwcdn.net/yvLzb/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="616"></iframe>
+
+<iframe title="After August 2021, would you consider using public transportation?" aria-label="chart" id="datawrapper-chart-0XFcS" src="https://datawrapper.dwcdn.net/0XFcS/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="616"></iframe>
 
 
 
