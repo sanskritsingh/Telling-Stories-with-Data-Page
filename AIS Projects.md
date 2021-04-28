@@ -31,3 +31,7 @@
 
 #Attempt 2 - Final Infographics
 
+<iframe title="Demographics details from the Survey conducted" aria-label="chart" id="datawrapper-chart-ckIS1" src="https://datawrapper.dwcdn.net/ckIS1/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="589"></iframe>
+
+
+
