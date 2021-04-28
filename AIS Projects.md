@@ -41,6 +41,8 @@
 
 <iframe title="Before March 2020, was public transportation easily accessible for your use?" aria-label="chart" id="datawrapper-chart-Ev3Qj" src="https://datawrapper.dwcdn.net/Ev3Qj/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="616"></iframe>
 
+<iframe title="Between March 2020 and March 2021, which of the following best describes your overall feeling of safety while using public transit?" aria-label="chart" id="datawrapper-chart-Uowh5" src="https://datawrapper.dwcdn.net/Uowh5/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="694"></iframe>
+
 <iframe title="After August 2021, would you consider using public transportation?" aria-label="chart" id="datawrapper-chart-0XFcS" src="https://datawrapper.dwcdn.net/0XFcS/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="616"></iframe>
 
 
