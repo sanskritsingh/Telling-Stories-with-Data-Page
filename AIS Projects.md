@@ -25,10 +25,11 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/6008206"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<iframe title="Which strategy would you need to comfortably use public transit regularly?" aria-label="Split Bars" id="datawrapper-chart-hNVfo" src="https://datawrapper.dwcdn.net/hNVfo/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="528"></iframe>
+<iframe title="Which strategy would you need to comfortably use public transit regularly?" aria-label="Split Bars" id="datawrapper-chart-hNVfo" src="https://datawrapper.dwcdn.net/hNVfo/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="528"></iframe>
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/6008692"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <iframe title="Employment Equity" aria-label="chart" id="datawrapper-chart-3vmRT" src="https://datawrapper.dwcdn.net/3vmRT/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="606"></iframe>
+
 
 
