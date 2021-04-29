@@ -27,4 +27,5 @@
 
 <iframe title="Which strategy would you need to comfortably use public transit regularly?" aria-label="Split Bars" id="datawrapper-chart-hNVfo" src="https://datawrapper.dwcdn.net/hNVfo/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="528"></iframe>
 
+<div class="flourish-embed flourish-scatter" data-src="visualisation/6008692"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
