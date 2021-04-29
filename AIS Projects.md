@@ -6,6 +6,9 @@
 
 <iframe title="Gender Dynamics for the Survey" aria-label="Column Chart" id="datawrapper-chart-HQ37i" src="https://datawrapper.dwcdn.net/HQ37i/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="589"></iframe>
 
+<iframe title="Personal income group (USD)
+" aria-label="Column Chart" id="datawrapper-chart-3ct7q" src="https://datawrapper.dwcdn.net/3ct7q/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="228"></iframe>
+
 <iframe title="Before the pandemic (March 2020), did you use public transportation? " aria-label="chart" id="datawrapper-chart-yvLzb" src="https://datawrapper.dwcdn.net/yvLzb/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="616"></iframe>
 
 <iframe title="Before March 2020, was public transportation easily accessible for your use?" aria-label="chart" id="datawrapper-chart-Ev3Qj" src="https://datawrapper.dwcdn.net/Ev3Qj/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="616"></iframe>
@@ -30,6 +33,8 @@
 <div class="flourish-embed flourish-scatter" data-src="visualisation/6008692"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <iframe title="Employment Equity" aria-label="chart" id="datawrapper-chart-3vmRT" src="https://datawrapper.dwcdn.net/3vmRT/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="606"></iframe>
+
+
 
 
 
