@@ -15,7 +15,7 @@
 <iframe title="After August 2021, would you consider using public transportation?" aria-label="chart" id="datawrapper-chart-0XFcS" src="https://datawrapper.dwcdn.net/0XFcS/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="616"></iframe>
 
 <iframe title="Which of the following community vaccination rates best describes what you would need to feel comfortable taking public transit?
-" aria-label="Column Chart" id="datawrapper-chart-OjRJs" src="https://datawrapper.dwcdn.net/OjRJs/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="412"></iframe>
+" aria-label="Column Chart" id="datawrapper-chart-OjRJs" src="https://datawrapper.dwcdn.net/OjRJs/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="412"></iframe>
 
 <iframe title="Which strategy would you need to comfortably use public transit regularly?" aria-label="Bar Chart" id="datawrapper-chart-n1wQe" src="https://datawrapper.dwcdn.net/n1wQe/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="538"></iframe>
 
