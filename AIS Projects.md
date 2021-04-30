@@ -34,6 +34,9 @@
 
 <iframe title="Employment Equity" aria-label="chart" id="datawrapper-chart-3vmRT" src="https://datawrapper.dwcdn.net/3vmRT/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="606"></iframe>
 
+<iframe title="Comparison between no. of trips Before March 2020 and anticipated no. of trips after August 2021
+" aria-label="Arrow Plot" id="datawrapper-chart-rfNfM" src="https://datawrapper.dwcdn.net/rfNfM/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="228"></iframe>
+
 
 
 
