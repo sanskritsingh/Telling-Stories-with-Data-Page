@@ -37,6 +37,8 @@
 <iframe title="Comparison between no. of trips Before March 2020 and anticipated no. of trips after August 2021
 " aria-label="Arrow Plot" id="datawrapper-chart-rfNfM" src="https://datawrapper.dwcdn.net/rfNfM/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="228"></iframe>
 
+<iframe title="Do you anticipate working/studying from home after August 2021?" aria-label="Arrow Plot" id="datawrapper-chart-aS4XA" src="https://datawrapper.dwcdn.net/aS4XA/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="223"></iframe>
+
 
 
 
