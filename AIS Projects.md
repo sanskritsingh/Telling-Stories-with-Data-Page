@@ -39,6 +39,14 @@
 
 <iframe title="Do you anticipate working/studying from home after August 2021?" aria-label="Arrow Plot" id="datawrapper-chart-aS4XA" src="https://datawrapper.dwcdn.net/aS4XA/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="223"></iframe>
 
+<iframe title="Before the pandemic (March 2020), was public transportation easily accessible for use?" aria-label="chart" id="datawrapper-chart-ADjfr" src="https://datawrapper.dwcdn.net/ADjfr/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="589"></iframe>
+
+<iframe title="Before the pandemic (March 2020), how many felt safe using public transportation?" aria-label="chart" id="datawrapper-chart-EgikV" src="https://datawrapper.dwcdn.net/EgikV/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="589"></iframe>
+
+<iframe title="Before the pandemic (March 2020), how many used public transportation? " aria-label="chart" id="datawrapper-chart-oDbfD" src="https://datawrapper.dwcdn.net/oDbfD/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="615"></iframe>
+
+<iframe title="Between March 2020 and March 2021, which of the following best describes your overall feeling of safety while using public transit?" aria-label="chart" id="datawrapper-chart-Uowh5" src="https://datawrapper.dwcdn.net/Uowh5/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="695"></iframe>
+
 
 
 
