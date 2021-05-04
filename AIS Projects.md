@@ -47,6 +47,8 @@
 
 <iframe title="Between March 2020 and March 2021, which of the following best describes your overall feeling of safety while using public transit?" aria-label="chart" id="datawrapper-chart-Uowh5" src="https://datawrapper.dwcdn.net/Uowh5/3/" scrolling="no" frameborder="0" style="border: none;" width="600" height="695"></iframe>
 
+<iframe title="After August 2021, would people consider using public transportation?" aria-label="chart" id="datawrapper-chart-0XFcS" src="https://datawrapper.dwcdn.net/0XFcS/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="615"></iframe>
+
 
 
 
