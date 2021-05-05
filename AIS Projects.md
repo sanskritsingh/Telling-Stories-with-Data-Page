@@ -49,6 +49,8 @@
 
 <iframe title="After August 2021, would people consider using public transportation?" aria-label="chart" id="datawrapper-chart-0XFcS" src="https://datawrapper.dwcdn.net/0XFcS/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="615"></iframe>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/6008206"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 
 
