@@ -62,6 +62,10 @@
 <iframe title="Which form of transportation did people use?
 (For North America)" aria-label="Arrow Plot" id="datawrapper-chart-hmTne" src="https://datawrapper.dwcdn.net/hmTne/1/" scrolling="no" frameborder="0" style="border: none;" width="810" height="269"></iframe>
 
+<iframe title="How did people pay for using public transit? (For the World)" aria-label="Arrow Plot" id="datawrapper-chart-VydKk" src="https://datawrapper.dwcdn.net/VydKk/1/" scrolling="no" frameborder="0" style="border: none;" width="864" height="180"></iframe>
+
+<iframe title="How did people pay for using public transit? (For North America)" aria-label="Arrow Plot" id="datawrapper-chart-q4BOT" src="https://datawrapper.dwcdn.net/q4BOT/1/" scrolling="no" frameborder="0" style="border: none;" width="864" height="180"></iframe>
+
 
 
 
