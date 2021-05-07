@@ -55,6 +55,13 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/6008206"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<iframe title="Which form of transportation did people use?
+(For the World)
+" aria-label="Arrow Plot" id="datawrapper-chart-YUfJY" src="https://datawrapper.dwcdn.net/YUfJY/1/" scrolling="no" frameborder="0" style="border: none;" width="810" height="269"></iframe>
+
+<iframe title="Which form of transportation did people use?
+(For North America)" aria-label="Arrow Plot" id="datawrapper-chart-hmTne" src="https://datawrapper.dwcdn.net/hmTne/1/" scrolling="no" frameborder="0" style="border: none;" width="810" height="269"></iframe>
+
 
 
 
